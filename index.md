@@ -6,7 +6,7 @@
 
 
 ## Academic
-https://github.com/courtneyjhodgson/Academic
+https://github.com/courtneyjhodgson/Academic/blob/main/Courtney_QDK_Project.ipynb
 # Quantum Computing
 
 
