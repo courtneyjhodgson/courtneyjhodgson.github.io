@@ -1,17 +1,17 @@
 
-## Courtney Hodgson's Github Website
+# Courtney Hodgson's Github Website
 
 
-### Projects
+## Projects
 
 
-## Academic
-https://github.com/courtneyjhodgson/Academic/blob/main/Courtney_QDK_Project.ipynb
-# Quantum Computing
+### Academic
 
+1. Quantum Computing
+[Quantum Key Distribution](https://github.com/courtneyjhodgson/Academic/blob/main/Courtney_QDK_Project.ipynb)
 
-# Machine Learning
+### Machine Learning
 
 ## Personal 
-# Organization
+1. Organization
 
